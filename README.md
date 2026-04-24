@@ -56,9 +56,9 @@ The $236/day lift was validated at statistical significance — providing the bu
 
 ## 🖼️ Screenshots / Visuals
 
-<img width="500" height="500" alt="avg_item_price_boxplot" src="https://github.com/user-attachments/assets/eebb645a-706f-4720-bbc1-540ee35056bb" /> <img width="200" height="200" alt="avg_item_price_KDE" src="https://github.com/user-attachments/assets/02377b4d-283c-4361-bbec-5ac63a4202c6" />
-<img width="500" height="500" alt="item_purchased_boxplot" src="https://github.com/user-attachments/assets/b86b4b5d-3d91-47da-aa23-8b269e5909aa" /> <img width="200" height="200" alt="Items_purchased_KDE" src="https://github.com/user-attachments/assets/d5e02fa3-bbc0-472e-aee8-8c5eb031c7b6" />
-<img width="500" height="500" alt="Itemspurchased_barchart" src="https://github.com/user-attachments/assets/974e2b22-c3d8-46aa-a709-c4fdf96d5248" /> <img width="200" height="200" alt="Revenue_KDE" src="https://github.com/user-attachments/assets/c92a6237-20e2-455b-afef-9478b8d40ecc" />
+<img width="500" height="500" alt="avg_item_price_boxplot" src="https://github.com/user-attachments/assets/eebb645a-706f-4720-bbc1-540ee35056bb" /> <img width="500" height="500" alt="avg_item_price_KDE" src="https://github.com/user-attachments/assets/02377b4d-283c-4361-bbec-5ac63a4202c6" />
+<img width="500" height="500" alt="item_purchased_boxplot" src="https://github.com/user-attachments/assets/b86b4b5d-3d91-47da-aa23-8b269e5909aa" /> <img width="500" height="500" alt="Items_purchased_KDE" src="https://github.com/user-attachments/assets/d5e02fa3-bbc0-472e-aee8-8c5eb031c7b6" />
+<img width="500" height="500" alt="Itemspurchased_barchart" src="https://github.com/user-attachments/assets/974e2b22-c3d8-46aa-a709-c4fdf96d5248" /> <img width="500" height="500" alt="Revenue_KDE" src="https://github.com/user-attachments/assets/c92a6237-20e2-455b-afef-9478b8d40ecc" />
 <img width="500" height="500" alt="transaction_revenue_boxplot" src="https://github.com/user-attachments/assets/0ff7212a-9737-4750-85ef-6a91b4174777" />
 
 
