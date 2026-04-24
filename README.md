@@ -88,5 +88,3 @@ R scripts for regression modeling are in `/r-scripts/`. Open in RStudio and run 
 - Simple regression with well-chosen features often outperforms complex models when the goal is explanation, not prediction
 
 ---
-
-📁 [View project files on Google Drive](https://drive.google.com/drive/folders/1LZSNqPV25lVrMrOERd674xx9LhBdqZFv?usp=drive_link)
