@@ -66,8 +66,7 @@ The $236/day lift was validated at statistical significance — providing the bu
 
 ```bash
 # Clone the repo
-git clone https://github.com/saloni-shahi/retail-promotion-analysis.git
-cd retail-promotion-analysis
+git clone https://github.com/SaloniShahi336/retail-promotion-analysis.git
 
 # Install dependencies
 pip install -r requirements.txt
