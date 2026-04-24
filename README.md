@@ -56,9 +56,7 @@ The $236/day lift was validated at statistical significance — providing the bu
 
 ## 🖼️ Screenshots / Visuals
 
-> *(Add screenshots of your EDA charts, regression output, or summary visualizations here)*
-> 
-> Suggested: distribution plots, promotion vs. no-promotion revenue comparison, regression coefficient plot
+<img width="2100" height="2100" alt="avg_item_price_boxplot" src="https://github.com/user-attachments/assets/eebb645a-706f-4720-bbc1-540ee35056bb" />
 
 ---
 
